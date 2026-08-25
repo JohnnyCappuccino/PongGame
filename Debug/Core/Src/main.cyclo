@@ -1,0 +1,8 @@
+../Core/Src/main.c:27:6:MAX_Send	1
+../Core/Src/main.c:36:6:MAX_Init	1
+../Core/Src/main.c:45:6:MAX_Draw	2
+../Core/Src/main.c:155:6:Play_Tone	5
+../Core/Src/main.c:172:6:Show_Score	4
+../Core/Src/main.c:188:5:main	35
+../Core/Src/main.c:428:6:SystemClock_Config	3
+../Core/Src/main.c:473:6:Error_Handler	1
